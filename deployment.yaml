@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-devops-container
-        image: praneeth0108/python-devops-app:7
+        image: praneeth0108/python-devops-app:8
         ports:
         - containerPort: 5000
